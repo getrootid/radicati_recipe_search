@@ -1,0 +1,13 @@
+name: 'Radicati Search'
+description: 'Base Radicati site search setup.'
+type: 'Content'
+install:
+  - search_api
+  - search_api_db
+  - twig_tweak
+config:
+  import:
+    search_api: "*"
+    search_api_db: "*"
+    twig_tweak: "*"
+

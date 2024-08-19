@@ -1,0 +1,16 @@
+{
+  "name": "getrootid/radicati-recipe-search",
+  "description": "Base Radicati search setup.",
+  "type": "drupal-recipe",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Jason Mickela"
+    }
+  ],
+  "require": {
+    "drupal/search_api": "*",
+    "drupal/search_api_solr": "*",
+    "drupal/twig_tweak": "*"
+  }
+}
