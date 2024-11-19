@@ -7,7 +7,7 @@ dependencies:
   module:
     - search_api
 _core:
-  default_config_hash: SRfyXS8hwBsxO7VLwVuNou9xNwsuu3BKYue5wkVlNms
+  default_config_hash: AwH9pkf0-ePrJF4QYE1TFrxZXlWkIMsyEhQXT8q3nYM
 id: radicati_site_search
 label: 'Radicati: Site Search'
 module: views

@@ -9,7 +9,7 @@ dependencies:
     - node
     - search_api
 _core:
-  default_config_hash: FqpVL9FGEsqg_AaLpIoXvLYcWvJ7gvBnu-WGUAvqkuk
+  default_config_hash: 89NmgqJP7ODONvqhaELhlE2tuIw_RQx5lO0FazdH-bM
 id: site_search_index
 name: 'Site Search Index'
 description: ''
