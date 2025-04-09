@@ -7,7 +7,6 @@ install:
   - twig_tweak
 config:
   import:
-    search_api: "*"
     search_api_db: "*"
     twig_tweak: "*"
 
